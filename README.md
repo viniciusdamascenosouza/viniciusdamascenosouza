@@ -1,4 +1,7 @@
 ### <h1 align="center">Olá, eu sou Vinícius Damasceno! 👋</h1>
+<h2>Desenvolvedor Web Front-end</h2>
+<h3>Atualmente focado no desenvolvimento de JavaScript, TypeScript e React</h3>
+
 
 <!--<div align="center">
   <a href="https://github.com/viniciusdamascenosouza">
