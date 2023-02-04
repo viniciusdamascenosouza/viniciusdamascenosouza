@@ -1,7 +1,7 @@
 ### <h1 align="center">Seja Bem-Vindo, eu sou Vinícius Damasceno! 👋</h1>
-<h3>◈Desenvolvedor Front-end.</h3>
-<h3>◈Cursando Sistemas da Informação na PUC-MG (4° semestre).</h3> 
-<h3>◈Atualmente focado no desenvolvimento de JavaScript, TypeScript e React.</h3>
+<h3>◈ Desenvolvedor Front-end.</h3>
+<h3>◈ Cursando Sistemas da Informação na PUC-MG (4° semestre).</h3> 
+<h3>◈ Atualmente focado no desenvolvimento de JavaScript, TypeScript e React.</h3>
 <p>*Projetos principais se encontram na aba "Stars"</p>
 
 <div align="center">
