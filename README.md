@@ -1,8 +1,8 @@
-### <h1 align="center">Seja Bem-Vindo, eu sou Vinícius Damasceno!👋</h1>
+<h1 align="center">Seja Bem-Vindo, eu sou Vinícius Damasceno!👋</h1>
 
 <h3>◈ Desenvolvedor Front-end.</h3>
 <h3>◈ Cursando Sistemas da Informação na PUC-MG (5° semestre).</h3> 
-<h3>◈ Atualmente focado nas tecnologias: JavaScript, TypeScript e React.</h3>
+
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img align="center" alt="Vinicius-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Vinicius-npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />        
   <img align="center" alt="Vinicius-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="vinicius-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!--   <img align="center" alt="vinicius-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
   <img align="center" alt="Vinicius-sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <!--<img align="center" alt="Vinicius-tail" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
   <img align="center" alt="Vinicius-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
