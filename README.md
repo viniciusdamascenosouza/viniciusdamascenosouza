@@ -1,7 +1,7 @@
 ## Seja Bem-Vindo! Eu sou Vinícius Damasceno!👋
 
 
-<img src="./contextoApresentacao.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="./contextoApresentacao.png" alt="ilustração de um computador" min-width="380px" max-width="380px" height="450px" width="380px" align="right">
 
 <h3 align="left"> 
 <strong>Desenvolvedor Front-end</strong>
@@ -10,7 +10,7 @@
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
-<div align="center">
+<div>
   <a href="https://github.com/viniciusdamascenosouza">
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusdamascenosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img width ="500" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdamascenosouza&layout=compact&langs_count=7&theme=dracula"/>
