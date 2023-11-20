@@ -1,7 +1,10 @@
 <h1 align="center">Seja Bem-Vindo, eu sou Vinícius Damasceno!👋</h1>
-
-<h3>◈ Desenvolvedor Front-end.</h3>
-<h3>◈ Cursando Sistemas da Informação na PUC-MG (5° semestre).</h3> 
+<div>
+  <div>
+    <h3>◈ Desenvolvedor Front-end.</h3>
+    <h3>◈ Cursando Sistemas da Informação na PUC-MG (5° semestre).</h3> 
+  </div>
+</div>
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
