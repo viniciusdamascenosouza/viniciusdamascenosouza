@@ -1,7 +1,7 @@
 ## Seja Bem-Vindo! Eu sou Vinícius Damasceno!👋
 
 
-<img src="./contextoApresentacao.png" alt="ilustração de um computador" min-width="300px" max-width="300px" height="400px" width="300px" align="right">
+<img src="./contextoApresentacao.png" alt="ilustração de um computador" height="40%" width="40%" align="right">
 
 <h3 align="left"> 
 <strong>Desenvolvedor Front-end</strong>
