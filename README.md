@@ -4,6 +4,9 @@
     <h3>◈ Desenvolvedor Front-end.</h3>
     <h3>◈ Cursando Sistemas da Informação na PUC-MG (5° semestre).</h3> 
   </div>
+  <div>
+    <img>
+  </div>
 </div>
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
