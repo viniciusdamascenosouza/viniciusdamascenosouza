@@ -1,21 +1,20 @@
-<h1 align="center">Seja Bem-Vindo, eu sou Vinícius Damasceno!👋</h1>
-<div>
-  <div>
-    <h3>◈ Desenvolvedor Front-end.</h3>
-    <h3>◈ Cursando Sistemas da Informação na PUC-MG (5° semestre).</h3> 
-  </div>
-  <div>
-    <img>
-  </div>
-</div>
+## Seja Bem-Vindo! Eu sou Vinícius Damasceno!👋
+
+
+<img src="./contextoApresentacao.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+
+<h3 align="left"> 
+<strong>Desenvolvedor Front-end</strong>
+  
+<strong>Cursando Sistemas da Informação na PUC-MG (5° semestre)</strong></h3>
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
 <div align="center">
   <a href="https://github.com/viniciusdamascenosouza">
-<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusdamascenosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdamascenosouza&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusdamascenosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img width ="500" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdamascenosouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div>
   <h3>Tecnologias que tenho dominío:</h3>
    <img align="center" alt="Vinicius-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
