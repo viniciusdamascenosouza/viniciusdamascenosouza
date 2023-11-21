@@ -18,7 +18,7 @@ PUC-MG (5° semestre)</h3>
   <img width ="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdamascenosouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-  <img src="./contextoApresentacao.png" height="700px" width="auto" align="right">
+  <img src="./contextoApresentacao.png" height="500px" width="auto" align="right">
     
 <div>
   <h3>Tecnologias que tenho dominío:</h3>
