@@ -1,12 +1,14 @@
 ## Seja Bem-Vindo! Eu sou Vinícius Damasceno!👋
 
 
-<img src="./contextoApresentacao.png" alt="ilustração de um computador" height="auto" width="40%" align="right">
+  <img src="./contextoFuturo.png" height="auto" width="600px" align="right">
 
 <h3 align="left"> 
 <strong>Desenvolvedor Front-end</strong>
-  
-<strong>Cursando Sistemas da Informação na PUC-MG (5° semestre)</strong></h3>
+<br><br>  
+Cursando Sistemas da Informação na
+
+PUC-MG (5° semestre)</h3>
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
@@ -15,6 +17,8 @@
 <!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusdamascenosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img width ="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdamascenosouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
+  <img src="./contextoApresentacao.png" height="600px" width="auto" align="right">
     
 <div>
   <h3>Tecnologias que tenho dominío:</h3>
@@ -51,7 +55,7 @@
  
 </div>
   <br>
-<div align="center">
+<div align="left">
   <h2>Meus Contatos e Redes Sociais</h2>
  <a href="https://www.instagram.com/viniciusdam4sceno/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:viniciusdamascenosouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
