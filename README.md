@@ -31,8 +31,8 @@ PUC-MG (5° semestre)</h3>
 
 <div>
   <h3>Tecnologias que estou estudando:</h3>
-  <img align="center" alt="Vinicius-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Vinicius-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="vinicius-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 <div>
   <h3>Tecnologias, sistemas e ferramentas que utilizo em meus estudos diários:</h3>
@@ -45,12 +45,11 @@ PUC-MG (5° semestre)</h3>
 
 <div>
   <h3>Outras Tecnologias que já utilizei em algum momento:</h3>
-  <img align="center" alt="vinicius-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Vinicius-bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="Vinicius-wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Vinicius-wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   <img align="center" alt="Vinicius-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
+  <img align="center" alt="Vinicius-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>
  
 </div>
