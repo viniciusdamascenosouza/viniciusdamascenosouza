@@ -53,6 +53,8 @@ PUC-MG (6° semestre)</h3>
   <img align="center" alt="Vinicius-wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Vinicius-wp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   <img align="center" alt="Vinicius-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Vinicius-figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+          
   <img align="center" alt="Vinicius-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>
  
