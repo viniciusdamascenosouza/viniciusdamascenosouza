@@ -58,6 +58,8 @@ PUC-MG (6° semestre)</h3>
   <img align="center" alt="Vinicius-vitejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
           
   <img align="center" alt="Vinicius-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Vinicius-angular-material" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
+          
 </div>
  
 </div>
