@@ -1,4 +1,4 @@
-## Seja Bem-Vindo! Eu sou Vinícius Damasceno!👋
+## Seja Bem-Vindo! Eu sou Vinícius Damasceno! 👋
 
 
   <img src="./contextoFuturo.png" width="500px" align="right">
