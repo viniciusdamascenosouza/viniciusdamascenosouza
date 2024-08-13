@@ -25,7 +25,6 @@ PUC-MG (6° semestre)</h3>
    <img align="center" alt="Vinicius-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Vinicius-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="vinicius-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="vinicius-react" height="50" width="60" src="https://img.jsdelivr.com/raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />    
 
 </div>
 
