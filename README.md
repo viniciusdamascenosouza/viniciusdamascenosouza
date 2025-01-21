@@ -10,7 +10,7 @@ Cursando Sistemas da Informação na
 
 PUC-MG (8° semestre)</h3>
 
-<p>*Projetos principais se encontram na aba "Stars".</p>
+<p>Projetos principais se encontram na aba "Stars".</p>
 
 <div align="left">
   <a href="https://github.com/viniciusdamascenosouza">
