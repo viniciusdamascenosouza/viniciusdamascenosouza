@@ -4,7 +4,7 @@
   <img src="./contextoFuturo.png" width="500px" align="right">
 
 <h3 align="left"> 
-<strong>Desenvolvedor Front-end</strong>
+<strong>Desenvolvedor Front-end no Banco Inter</strong>
 <br><br>  
 Cursando Sistemas da Informação na
 
