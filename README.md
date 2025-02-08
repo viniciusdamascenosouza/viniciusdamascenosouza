@@ -8,7 +8,7 @@
 <br><br>  
 Cursando Sistemas da Informação na
 
-PUC-MG (8° semestre)</h3>
+PUC-MG (8° semestre (último)</h3>
 
 <p>*Projetos principais se encontram na aba "Stars".</p>
 
